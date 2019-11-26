@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
+title:  "111111Education must also train one for quick, resolute and effective thinking."
 author: charnsak
 categories: [ Jekyll, tutorial ]
 image: assets/images/3.jpg
